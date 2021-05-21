@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODIzOTgxMDUwMjY2OTEwNzQw.YFouJw.E_D1q51LxAOesb29LAMVr4cWc8I',
+        token: 'ODIzOTgxMDUwMjY2OTEwNzQw.YFouJw.BN_Be1HZqfV9t3yfbUVSLL4WeZA',
         prefix: '-',
         activity: 'Watching Mother Base',
     },
